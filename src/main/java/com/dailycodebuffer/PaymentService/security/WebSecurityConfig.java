@@ -1,4 +1,4 @@
-package com.dailycodebuffer.PaymentService.security;
+/*package com.dailycodebuffer.PaymentService.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -24,3 +24,4 @@ public class WebSecurityConfig {
         return http.build();
     }
 }
+*/
